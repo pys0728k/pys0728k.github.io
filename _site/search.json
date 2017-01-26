@@ -1,0 +1,24 @@
+[
+  
+    {
+      "title"    : "Others",
+      "tags"     : "Info.",
+      "url"      : "/others/",
+      "date"     : "26 Jan 2017"
+    } ,
+  
+    {
+      "title"    : "Getting started-SVN",
+      "tags"     : "getting started and SVN",
+      "url"      : "/getting-started-svn/",
+      "date"     : "26 Jan 2017"
+    } ,
+  
+    {
+      "title"    : "Getting started-github",
+      "tags"     : "getting started and github",
+      "url"      : "/getting-started-github/",
+      "date"     : "26 Jan 2017"
+    } 
+  
+]
