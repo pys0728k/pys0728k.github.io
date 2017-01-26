@@ -31,8 +31,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Information
-    url: /information
+  - title: Series
+    url: /series
   - title: Tags
     url: /tags
   - title: About Me
