@@ -42,5 +42,5 @@ links:
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
 
-#google analytics
+# google analytics
 google_analytics_token: 'UA-90947735-1'
