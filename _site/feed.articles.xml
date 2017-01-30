@@ -3,20 +3,20 @@
 	<channel>
 		<title>My internet repository - Articles</title>
 		<description>A blog of YS, Park</description>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<link>https://pys0728k.github.io</link>
+		<atom:link href="https://pys0728k.github.io/feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
 				<title>Others</title>
 				
-					<description>&lt;h1 id=&quot;others-필요-자료들&quot;&gt;Others (필요 자료들)&lt;/h1&gt;
+					<description>&lt;h1 id=&quot;others--&quot;&gt;Others (필요 자료들)&lt;/h1&gt;
 
 </description>
 				
 				<pubDate>Thu, 26 Jan 2017 05:34:26 +0900</pubDate>
-				<link>http://localhost:4000/others/</link>
-				<guid isPermaLink="true">http://localhost:4000/others/</guid>
+				<link>https://pys0728k.github.io/others/</link>
+				<guid isPermaLink="true">https://pys0728k.github.io/others/</guid>
 			</item>
 			
 		
@@ -29,8 +29,8 @@
 </description>
 				
 				<pubDate>Thu, 26 Jan 2017 05:34:26 +0900</pubDate>
-				<link>http://localhost:4000/getting-started-svn/</link>
-				<guid isPermaLink="true">http://localhost:4000/getting-started-svn/</guid>
+				<link>https://pys0728k.github.io/getting-started-svn/</link>
+				<guid isPermaLink="true">https://pys0728k.github.io/getting-started-svn/</guid>
 			</item>
 			
 		
@@ -43,8 +43,8 @@
 </description>
 				
 				<pubDate>Thu, 26 Jan 2017 05:34:26 +0900</pubDate>
-				<link>http://localhost:4000/getting-started-github/</link>
-				<guid isPermaLink="true">http://localhost:4000/getting-started-github/</guid>
+				<link>https://pys0728k.github.io/getting-started-github/</link>
+				<guid isPermaLink="true">https://pys0728k.github.io/getting-started-github/</guid>
 			</item>
 			
 		

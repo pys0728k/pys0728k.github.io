@@ -3,15 +3,15 @@
   <channel>
     <title>My internet repository</title>
     <description>A blog of YS, Park</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Jan 2017 01:29:33 +0900</pubDate>
-    <lastBuildDate>Sun, 29 Jan 2017 01:29:33 +0900</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>https://pys0728k.github.io/</link>
+    <atom:link href="https://pys0728k.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Jan 2017 22:38:38 +0900</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 22:38:38 +0900</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Others</title>
-        <description>&lt;h1 id=&quot;others-필요-자료들&quot;&gt;Others (필요 자료들)&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;others--&quot;&gt;Others (필요 자료들)&lt;/h1&gt;
 
 &lt;h2 id=&quot;sublime-text-3&quot;&gt;Sublime text 3&lt;/h2&gt;
 &lt;p&gt;리눅스에서 코딩, 텍스트 편집 시 사용할 수 있는 강력한 텍스트 편집 툴.&lt;/p&gt;
@@ -41,8 +41,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy 링크&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Jan 2017 05:34:26 +0900</pubDate>
-        <link>http://localhost:4000/others/</link>
-        <guid isPermaLink="true">http://localhost:4000/others/</guid>
+        <link>https://pys0728k.github.io/others/</link>
+        <guid isPermaLink="true">https://pys0728k.github.io/others/</guid>
         
         <category>Info.</category>
         
@@ -56,8 +56,8 @@
 &lt;p&gt;##&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Jan 2017 05:34:26 +0900</pubDate>
-        <link>http://localhost:4000/getting-started-svn/</link>
-        <guid isPermaLink="true">http://localhost:4000/getting-started-svn/</guid>
+        <link>https://pys0728k.github.io/getting-started-svn/</link>
+        <guid isPermaLink="true">https://pys0728k.github.io/getting-started-svn/</guid>
         
         <category>getting started</category>
         
@@ -70,20 +70,20 @@
         <title>Getting started-github</title>
         <description>&lt;h1 id=&quot;github&quot;&gt;Github&lt;/h1&gt;
 
-&lt;h2 id=&quot;github-이란&quot;&gt;Github 이란?&lt;/h2&gt;
+&lt;h2 id=&quot;github-&quot;&gt;Github 이란?&lt;/h2&gt;
 &lt;p&gt;Github은 분산 버전 관리 툴인 깃(Git)을 사용하는 프로젝트를 지원하는 웹호스팅 서비스이다.&lt;/p&gt;
 
-&lt;h2 id=&quot;github-용어-설명&quot;&gt;Github 용어 설명&lt;/h2&gt;
+&lt;h2 id=&quot;github--&quot;&gt;Github 용어 설명&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Commit :&lt;/li&gt;
   &lt;li&gt;Staging area :&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;github-설치-ubuntu&quot;&gt;Github 설치 (Ubuntu)&lt;/h2&gt;
+&lt;h2 id=&quot;github--ubuntu&quot;&gt;Github 설치 (Ubuntu)&lt;/h2&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;apt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;git&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;core&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;github-프로젝트-생성-관리&quot;&gt;Github 프로젝트 생성, 관리&lt;/h2&gt;
+&lt;h2 id=&quot;github---&quot;&gt;Github 프로젝트 생성, 관리&lt;/h2&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;1. Github 홈페이지에서 &quot;New repository&quot; 생성.&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2. Local repo.의 원하는 위치에서 다음 command 사용.&lt;/code&gt;
@@ -91,10 +91,8 @@
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;clone&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Repository&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;URL&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;3. 프로젝트를 수정하였다면, 다음 명령들을 순서대로 진행한다.&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Commit 상태 확인.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;3. 프로젝트를 수정하였다면, 다음 명령들을 순서대로 진행한다.&lt;/code&gt;
+ * Commit 상태 확인.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;status&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -116,10 +114,8 @@
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;push&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Repository&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;master&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;4. 추가적인 유용한 명령어들.&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Staging area와 현재 수정된 내용의 차이를 확인&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;4. 추가적인 유용한 명령어들.&lt;/code&gt;
+ * Staging area와 현재 수정된 내용의 차이를 확인&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;diff&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -129,14 +125,14 @@
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;log&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;markdown-편집기-haroopad&quot;&gt;Markdown 편집기 (Haroopad)&lt;/h2&gt;
+&lt;h2 id=&quot;markdown--haroopad&quot;&gt;Markdown 편집기 (Haroopad)&lt;/h2&gt;
 &lt;p&gt;Markdown 표시 내용을 바로 확인 할 수 있는 텍스트 에디터이다.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://pad.haroopress.com/user.html&quot;&gt;하루패드 공식 홈페이지&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Jan 2017 05:34:26 +0900</pubDate>
-        <link>http://localhost:4000/getting-started-github/</link>
-        <guid isPermaLink="true">http://localhost:4000/getting-started-github/</guid>
+        <link>https://pys0728k.github.io/getting-started-github/</link>
+        <guid isPermaLink="true">https://pys0728k.github.io/getting-started-github/</guid>
         
         <category>getting started</category>
         

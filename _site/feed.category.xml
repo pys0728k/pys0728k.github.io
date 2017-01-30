@@ -3,8 +3,8 @@
 	<channel>
 		<title>My internet repository - Miscellaneous</title>
 		<description>Posts categorized as 'miscellaneous'</description>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>https://pys0728k.github.io</link>
+		<atom:link href="https://pys0728k.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://localhost:4000/about/index.html</loc>
+            <loc>https://pys0728k.github.io/about/index.html</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/css/</loc>
+            <loc>https://pys0728k.github.io/category/css/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/dev/</loc>
+            <loc>https://pys0728k.github.io/category/dev/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/feed.articles.xml</loc>
+            <loc>https://pys0728k.github.io/feed.articles.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/feed.category.xml</loc>
+            <loc>https://pys0728k.github.io/feed.category.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/feed.links.xml</loc>
+            <loc>https://pys0728k.github.io/feed.links.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/feed.xml</loc>
+            <loc>https://pys0728k.github.io/feed.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/html/</loc>
+            <loc>https://pys0728k.github.io/category/html/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/</loc>
+            <loc>https://pys0728k.github.io/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/jekyll/</loc>
+            <loc>https://pys0728k.github.io/category/jekyll/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/js/</loc>
+            <loc>https://pys0728k.github.io/category/js/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/misc/</loc>
+            <loc>https://pys0728k.github.io/category/misc/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/search.json</loc>
+            <loc>https://pys0728k.github.io/search.json</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/series/index.html</loc>
+            <loc>https://pys0728k.github.io/series/index.html</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/sitemap.xml</loc>
+            <loc>https://pys0728k.github.io/sitemap.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/svg/</loc>
+            <loc>https://pys0728k.github.io/category/svg/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/tags/index.html</loc>
+            <loc>https://pys0728k.github.io/tags/index.html</loc>
         </url>
     
     
         <url>
-            <loc>http://localhost:4000/others/</loc>
+            <loc>https://pys0728k.github.io/others/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/getting-started-svn/</loc>
+            <loc>https://pys0728k.github.io/getting-started-svn/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/getting-started-github/</loc>
+            <loc>https://pys0728k.github.io/getting-started-github/</loc>
         </url>
   
 </urlset>
